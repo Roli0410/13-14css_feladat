@@ -1,0 +1,44 @@
+h1,
+h2 {
+    color: #be123c;
+
+}
+
+.bevezeto {
+    font-style: italic;
+    background-color: #fef3c7;
+    padding: 6px 10px;
+}
+
+.hozzavalok>li {
+    color: #0369a1;
+}
+
+h2+p {
+    font-weight: bold;
+}
+
+a:hover {
+    color: #be123c;
+
+}
+
+a:active {
+    color: #f59e0b;
+}
+
+li:nth-child(even) {
+    background-color: #fce7f3;
+}
+
+li:last-child{
+    font-weight: bold;
+}
+
+input.focus{
+    outline-color: #fb7185;
+    outline-width: 3px;
+}
+.ar ::after{
+    content: Ft;
+}
